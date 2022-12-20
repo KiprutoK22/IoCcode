@@ -1,0 +1,6 @@
+query ListCountries{
+    countries{
+      name
+      currency
+    }
+}
